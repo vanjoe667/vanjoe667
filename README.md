@@ -1,4 +1,4 @@
-### Motto: Let's build the future ✌🏻
+### Let's build the future ✌🏻
 
 <!--
 **vanjoe667/vanjoe667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/Vanjoe667"><img src="https://api.daily.dev/devcards/e09559653d8445c58edaef386707417f.png?r=bfx" width="400" alt="Joel Ajide's Dev Card"/></a>
+<a href="https://app.daily.dev/Vanjoe667"><img src="https://github.com/vanjoe667/vanjoe667/blob/main/devcard.svg" width="400" alt="Joel Ajide's Dev Card"/></a>
